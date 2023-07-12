@@ -1,2 +1,0 @@
-API_EXAME
-Repositório pra Exame. Atividade do Sistema de Gerenciamento de Tarefas (API). 
